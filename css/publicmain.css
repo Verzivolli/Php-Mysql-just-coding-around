@@ -1,0 +1,43 @@
+.navbar-nav li {
+    font-weight: bold;
+    font-family: Bitter, Georgia, Times,"Times New Roman",serif;
+    font-size:1.2em;
+    margin-bottom:0;
+}
+.line {
+    margin-top:-20px;
+}
+.col-sm-8 {
+    background-color:#f9f9f9;
+}
+.col-sm-3 {
+    background-color:#f4f4f4;
+}
+#footer {
+    padding:10px;
+    border-top: 1px solid black;
+    color: #eeeeee;
+    background-color: #211f22;
+    text-align: center;
+}
+.blogpost{
+    background-color: #f5f5f5;
+    padding: 10px 10px 10px 0;
+    overflow: hidden;
+}
+.title-heading {
+    font-weight: bold;
+    font-family: Bitter, Georgia, Times,"Times New Roman",serif;
+    color:#005e90;
+}
+.title-heading:hover {
+    color:#0090db;
+}
+.description {
+    color:#868686;
+    font-weight:bold;
+    margin-top: -2px;
+}
+.btn-info {
+    float:right;
+}
